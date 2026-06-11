@@ -1,0 +1,5 @@
+sensor
+*.o
+*.swp
+data.csv
+data.txt
